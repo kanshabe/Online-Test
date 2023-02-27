@@ -1,0 +1,102 @@
+{
+  "questions": [
+    {
+      "questionText": "The leading source of antioxidants in the U.S. diet is",
+      "options": [
+        {
+          "text": "Citrus fruits"
+        },
+        {
+          "text": "Spinach"
+
+        },
+        {
+          "text": "Egg yolks"
+        },
+        {
+          "text": "Coffee",
+           "correct": true
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "questionText": "The essential fatty acids that must be derived from the diet are",
+      "options": [
+        {
+          "text": "Stearidonic acid and eicosatetraenoic acid"
+        },
+        {
+          "text": "Eicosapentaenoic acid and docosapentaenoic acid",
+          "correct": true
+        },
+        {
+          "text": "Linoleic and alpha-linoleic acid"
+
+        },
+        {
+          "text": "Gamma-linoleic acid and arachidonic acid"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "questionText": "All of the following may be associated with scurvy except:",
+      "options": [
+        {
+          "text": "Loss of appetite and irritability"
+        },
+        {
+          "text": "Diarrhea and fever"
+        },
+        {
+          "text": "Tenderness and swelling in legs",
+          "correct": true
+        },
+        {
+          "text": "First symptom is altered mental status"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "questionText": "The only fat-soluble antioxidant synthesized in the body is?",
+      "options": [
+        {
+          "text": "Vitamin D",
+          "correct": true
+        },
+        {
+          "text": "Thiamine"
+        },
+        {
+          "text": "Ascorbic acid"
+        },
+        {
+          "text": "CoQ10"
+        }
+      ],
+      "explanation": "That is incorrect, the correct answer is Vitamin D"
+    },
+    {
+      "questionText": "Good source of vitamin D include all except:",
+      "options": [
+        {
+          "text": "blueberries"
+
+        },
+        {
+          "text": "Sunlight"
+        },
+        {
+          "text": "Salmon, tuna sardines and mackerel",
+           "correct": true
+        },
+        {
+          "text": "Fortified milk and other dairy products"
+        }
+      ],
+      "explanation": "That's incorrect. The correct answer is: getIndexes()"
+    }
+  ]
+}
